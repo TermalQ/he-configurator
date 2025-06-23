@@ -1,0 +1,51 @@
+[
+  {
+    "category": {
+      "pl": "Zielony",
+      "en": "Green"
+    },
+    "colors": ["#006613", "#308d00", "#00b900"]
+  },
+  {
+    "category": {
+      "pl": "Żółty",
+      "en": "Yellow"
+    },
+    "colors": ["#937100", "#a2802b", "#d9a700", "#c8d700", "#c2b663"]
+  },
+  {
+    "category": {
+      "pl": "Pomarańczowy",
+      "en": "Orange"
+    },
+    "colors": ["#8c4c2c", "#f64400", "#ff3300", "#ff7500"]
+  },
+  {
+    "category": {
+      "pl": "Czerwony",
+      "en": "Red"
+    },
+    "colors": ["#aa0000", "#e70024", "#fc0000", "#bf005e"]
+  },
+  {
+    "category": {
+      "pl": "Fioletowy",
+      "en": "Violet"
+    },
+    "colors": ["#49006d", "#8f53cc", "#d93fbe"]
+  },
+  {
+    "category": {
+      "pl": "Niebieski",
+      "en": "Blue"
+    },
+    "colors": ["#0060cd", "#009ba6", "#00c2be", "#768bb6", "#92aad5"]
+  },
+  {
+    "category": {
+      "pl": "Srebrny",
+      "en": "Silver"
+    },
+    "colors": ["#aeaaac", "#f4e3de", "#e7eaea"]
+  }
+]

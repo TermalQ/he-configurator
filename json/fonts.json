@@ -1,0 +1,38 @@
+[
+    {
+      "name": "Annabelle JF",
+      "rating": 5,
+      "badge": "top",
+      "fontFamily": "annabelle-jf"
+    },
+    {
+      "name": "Century",
+      "rating": 4,
+      "badge": "",
+      "fontFamily": "century"
+    },
+    {
+      "name": "Relation One",
+      "rating": 5,
+      "badge": "new",
+      "fontFamily": "relation-one"
+    },
+    {
+      "name": "Open Sans",
+      "rating": 3,
+      "badge": "",
+      "fontFamily": "open-sans"
+    },
+    {
+      "name": "Nunito",
+      "rating": 4,
+      "badge": "",
+      "fontFamily": "nunito"
+    },
+    {
+      "name": "Noto Sans",
+      "rating": 2,
+      "badge": "",
+      "fontFamily": "noto-sans"
+    }
+]

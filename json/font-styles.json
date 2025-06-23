@@ -1,0 +1,26 @@
+[
+  {
+    "name": {
+      "pl": "Pogrubienie",
+      "en": "Bold"
+    },
+    "style": "bold",
+    "svg": "bold.svg"
+  },
+  {
+    "name": {
+      "pl": "Kursywa",
+      "en": "Italic"
+    },
+    "style": "italic",
+    "svg": "italic.svg"
+  },
+  {
+    "name": {
+      "pl": "Podkreślenie",
+      "en": "Underline"
+    },
+    "style": "underline",
+    "svg": "underline.svg"
+  }
+]

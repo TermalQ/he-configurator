@@ -1,0 +1,75 @@
+{
+  "flagTopPanel": [
+    {
+      "active": 1,
+      "title": {
+        "pl": "Panel",
+        "en": "Panel"
+      },
+      "help": {
+        "pl": "Górny frontowy panel",
+        "en": "Top front panel"
+      },
+      "icon": "flag.svg",
+      "default_colors": 0,
+      "specific_colors": ["#FFFFFF"],
+      "start_color": "#dbdbdb",
+      "align": {
+        "left": {
+          "active": 1,
+          "name": {
+            "pl": "Do lewej",
+            "en": "Align left"
+          },
+          "svg": "left.svg",
+          "anchor": "start",
+          "x": 190,
+          "y": 45,
+          "width": 35,
+          "height": 30,
+          "transform": "skewX(7) scale(1, 0.8) rotate(5)"
+        },
+        "center": {
+          "active": 1,
+          "name": {
+            "pl": "Wyśrodkuj",
+            "en": "Center"
+          },
+          "svg": "center.svg",
+          "anchor": "middle",
+          "x": 345,
+          "y": 52,
+          "width": 33,
+          "height": 28,
+          "transform": "skewX(7) scale(1, 0.8) rotate(5)"
+        },
+        "right": {
+          "active": 1,
+          "name": {
+            "pl": "Do prawej",
+            "en": "Align right"
+          },
+          "svg": "right.svg",
+          "anchor": "end",
+          "x": 480,
+          "y": 55,
+          "width": 32,
+          "height": 27,
+          "transform": "skewX(7) scale(1, 0.8) rotate(5)"
+        },
+        "grawer": {
+          "active": 1,
+          "name": {
+            "pl": "Do prawej",
+            "en": "Align right"
+          },
+          "svg": "right.svg",
+          "anchor": "end",
+          "x": 36.65,
+          "y": 7.6,
+          "transform": "rotate(0) scale(1)"
+        }
+      }
+    }
+  ]
+}

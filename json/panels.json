@@ -1,0 +1,18 @@
+[
+  {
+    "name": {
+      "pl": "Panel",
+      "en": "Panel"
+    },
+    "color": "#131516",
+    "ral": "RAL 9005"
+  },
+  {
+    "name": {
+      "pl": "Drzwi",
+      "en": "Door"
+    },
+    "color": "#000080",
+    "ral": "RAL 5011"
+  }
+]

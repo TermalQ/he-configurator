@@ -1,0 +1,176 @@
+{
+  "toppanel": [
+    {
+      "active": 1,
+      "title": {
+        "pl": "Panel",
+        "en": "Panel"
+      },
+      "help": {
+        "pl": "Górny frontowy panel",
+        "en": "Top front panel"
+      },
+      "icon": "toppanel.svg",
+      "default_colors": 1,
+      "specific_colors": [],
+      "start_color": "#FFFFFF",
+      "align": {
+        "left": {
+          "active": 1,
+          "current": 1,
+          "name": {
+            "pl": "Do lewej",
+            "en": "Left"
+          },
+          "svg": "left.svg",
+          "anchor": "start",
+          "x": 200,
+          "y": 52,
+          "transform": "rotate(4.85) scale(1)"
+        },
+        "center": {
+          "active": 1,
+          "current": 0,
+          "name": {
+            "pl": "Wyśrodkuj",
+            "en": "Center"
+          },
+          "svg": "center.svg",
+          "anchor": "middle",
+          "x": 360,
+          "y": 52,
+          "transform": "rotate(4.85) scale(1)"
+        },
+        "right": {
+          "active": 1,
+          "current": 0,
+          "name": {
+            "pl": "Do prawej",
+            "en": "Right"
+          },
+          "svg": "right.svg",
+          "anchor": "end",
+          "x": 515,
+          "y": 52,
+          "transform": "rotate(4.85) scale(1)"
+        }
+      }
+    }
+  ],
+  "door": [
+    {
+      "active": 1,
+      "title": {
+        "pl": "Drzwi",
+        "en": "Door"
+      },
+      "help": {
+        "pl": "Przód paki elektrycznej",
+        "en": "Front of electric tack"
+      },
+      "icon": "door.svg",
+      "default_colors": 1,
+      "specific_colors": [],
+      "start_color": "#FFFFFF",
+      "align": {
+        "top": {
+          "active": 1,
+          "current": 1,
+          "name": {
+            "pl": "Góra",
+            "en": "Top"
+          },
+          "svg": "top.svg",
+          "anchor": "middle",
+          "x": 180,
+          "y": 40,
+          "transform": "translate(162.09 208.97) rotate(.13) scale(1.09 1) skewX(-2.39)"
+        },
+        "middle": {
+          "active": 1,
+          "current": 0,
+          "name": {
+            "pl": "Środek",
+            "en": "Center"
+          },
+          "svg": "middle.svg",
+          "anchor": "middle",
+          "x": 200,
+          "y": 85,
+          "transform": "translate(152.26 435.1) rotate(-7.8) scale(1.05 .98) skewX(-9.9)"
+        },
+        "bottom": {
+          "active": 1,
+          "current": 0,
+          "name": {
+            "pl": "Dół",
+            "en": "Bottom"
+          },
+          "svg": "bottom.svg",
+          "anchor": "middle",
+          "x": 220,
+          "y": 90,
+          "transform": "translate(159.54 645.84) rotate(-12.25) scale(1.03 .87) skewX(-25.4)"
+        }
+      }
+    }
+  ],
+  "side": [
+    {
+      "active": 1,
+      "title": {
+        "pl": "Bok",
+        "en": "Side"
+      },
+      "help": {
+        "pl": "Bok paki elektrycznej",
+        "en": "Side of electric tack"
+      },
+      "icon": "side.svg",
+      "default_colors": 1,
+      "specific_colors": [],
+      "start_color": "#FFFFFF",
+      "align": {
+        "top": {
+          "active": 1,
+          "current": 1,
+          "name": {
+            "pl": "Góra",
+            "en": "Top"
+          },
+          "svg": "top.svg",
+          "anchor": "middle",
+          "x": 185,
+          "y": 30,
+          "transform": "translate(11.49 111.24) rotate(-11.07) scale(.56 .98) skewX(-19.32)"
+        },
+        "middle": {
+          "active": 1,
+          "current": 0,
+          "name": {
+            "pl": "Środek",
+            "en": "Center"
+          },
+          "svg": "middle.svg",
+          "anchor": "middle",
+          "x": 280,
+          "y": 40,
+          "transform": "translate(25.21 363.67) rotate(36.6) scale(.4 .78) skewX(56.9)"
+        },
+        "bottom": {
+          "active": 1,
+          "current": 0,
+          "name": {
+            "pl": "Dół",
+            "en": "Bottom"
+          },
+          "svg": "bottom.svg",
+          "anchor": "middle",
+          "x": 255,
+          "y": 20,
+          "transform": "translate(26.88 539.2) rotate(49.75) scale(.55 .67) skewX(53.14)"
+        }
+      }
+    }
+  ]
+}

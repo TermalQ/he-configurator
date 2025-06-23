@@ -1,0 +1,35 @@
+[
+  {
+    "active": 1,
+    "current": 0,
+    "name": {
+      "pl": "Mały",
+      "en": "Small"
+    },
+    "size": 12,
+    "panel": "top",
+    "svg": "small.svg"
+  },
+  {
+    "active": 1,
+    "current": 0,
+    "name": {
+      "pl": "Średni",
+      "en": "Middle"
+    },
+    "size": 18,
+    "panel": "top",
+    "svg": "normal.svg"
+  },
+  {
+    "active": 1,
+    "current": 1,
+    "name": {
+      "pl": "Duży",
+      "en": "Large"
+    },
+    "size": 25,
+    "panel": "top",
+    "svg": "large.svg"
+  }
+]

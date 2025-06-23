@@ -1,0 +1,66 @@
+{
+    "1": {
+        "active": 1,
+        "board": "right",
+        "header": {
+            "pl": "Witaj w naszym przewodniku!",
+            "en": "Welcome to our guide!"
+        },
+        "text": {
+            "pl": "To jest pierwszy krok.",
+            "en": "This is the first step."
+        },
+        "button": {
+            "pl": "Dalej",
+            "en": "Next"
+        }
+    },
+    "2": {
+        "active": 1,
+        "board": "right",
+        "header": {
+            "pl": "Nagłówek 2",
+            "en": "Header 2"
+        },
+        "text": {
+            "pl": "To jest przykładowy krok, który pokazuje jak coś działa.",
+            "en": "This is an example step showing how something works."
+        },
+        "button": {
+            "pl": "Dalej",
+            "en": "Next"
+        }
+    },
+    "3": {
+        "active": 1,
+        "board": "top",
+        "header": {
+            "pl": "Trzeci nagłówek",
+            "en": "Last header"
+        },
+        "text": {
+            "pl": "To jest przedostatni krok w przewodniku!",
+            "en": "This is the last step. Thank you for participating in the tour!"
+        },
+        "button": {
+            "pl": "Dalej",
+            "en": "Next"
+        }
+    },
+    "4": {
+        "active": 1,
+        "board": "bottom",
+        "header": {
+            "pl": "Ostatni nagłówek",
+            "en": "Last header"
+        },
+        "text": {
+            "pl": "To jest ostatni krok. Wyślij formularz, a my skontaktujemy się z Tobą i poprowadzimy Cię przez dalszy etap zamówienia. Dziękujemy za udział w przewodniku!",
+            "en": "This is the last step. Thank you for participating in the tour!"
+        },
+        "button": {
+            "pl": "Zakończ",
+            "en": "Finish"
+        }
+    }
+}

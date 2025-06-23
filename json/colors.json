@@ -1,0 +1,144 @@
+{
+  "colors": {
+    "category": {
+      "pl": "Kolory podstawowe",
+      "en": "Primary colors"
+    },
+    "items": [
+      {
+        "active": 1,
+        "default": 1,
+        "name": {
+          "pl": "Czarny",
+          "en": "Black"
+        },
+        "price": {
+          "pl": 0,
+          "en": 0
+        },
+        "promo": {
+          "pl": "",
+          "en": ""
+        },
+        "color": "#131516",
+        "ral": "RAL 9005"
+      },
+      {
+        "active": 1,
+        "default": 0,
+        "name": {
+          "pl": "Bordo",
+          "en": "Wine red"
+        },
+        "price": {
+          "pl": 500,
+          "en": 120
+        },
+        "promo": {
+          "pl": "",
+          "en": ""
+        },
+        "color": "#3f0000",
+        "ral": "RAL 3005"
+      },
+      {
+        "active": 1,
+        "default": 0,
+        "name": {
+          "pl": "Granat",
+          "en": "Cobalt blue"
+        },
+        "price": {
+          "pl": 500,
+          "en": 120
+        },
+        "promo": {
+          "pl": "",
+          "en": ""
+        },
+        "color": "#000c1e",
+        "ral": "RAL 5013"
+      },
+      {
+        "active": 1,
+        "default": 0,
+        "name": {
+          "pl": "Srebrny",
+          "en": "Silver Metallic"
+        },
+        "price": {
+          "pl": 500,
+          "en": 120
+        },
+        "promo": {
+          "pl": "",
+          "en": ""
+        },
+        "color": "#d3d3d3",
+        "ral": "RAL 9006"
+      },
+      {
+        "active": 1,
+        "default": 0,
+        "name": {
+          "pl": "Złoty",
+          "en": "Pearl gold"
+        },
+        "price": {
+          "pl": 500,
+          "en": 120
+        },
+        "promo": {
+          "pl": "",
+          "en": ""
+        },
+        "color": "#9b5800",
+        "ral": "RAL 1036"
+      }
+    ]
+  },
+  "brocate": {
+    "category": {
+      "pl": "Kolory z brokatem",
+      "en": "Glitter colors"
+    },
+    "items": [
+      {
+        "active": 1,
+        "default": 0,
+        "name": {
+          "pl": "Czarny z brokatem",
+          "en": "Glitter Black"
+        },
+        "price": {
+          "pl": 500,
+          "en": 120
+        },
+        "promo": {
+          "pl": "",
+          "en": ""
+        },
+        "color": "#131516",
+        "ral": "RAL 9005"
+      },
+      {
+        "active": 1,
+        "default": 0,
+        "name": {
+          "pl": "Różowy z brokatem",
+          "en": "Glitter Pink"
+        },
+        "price": {
+          "pl": 500,
+          "en": 120
+        },
+        "promo": {
+          "pl": "",
+          "en": ""
+        },
+        "color": "#925387",
+        "ral": "RAL 520-M"
+      }
+    ]
+  }
+}

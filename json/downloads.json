@@ -1,0 +1,21 @@
+[
+  {
+    "name": {
+      "pl": "Pobierz wersję PDF",
+      "en": "Download PDF file"
+    },
+    "version": "PDF",
+    "link": "pdf",
+    "svg": "download.svg"
+    
+  },
+  {
+    "name": {
+      "pl": "Pobierz obraz JPEG/JPG",
+      "en": "Download JPEG/JPG file"
+    },
+    "version": "JPEG",
+    "link": "image",
+    "svg": "download.svg"
+  }
+]

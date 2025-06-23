@@ -1,0 +1,9 @@
+# SECURE include/stat => direct path => .htpasswd
+<Files view.php>
+# AuthUserFile /home/bxgewnyumn/domains/electra.hussaria.pl/public_html/order/.secure/.htpasswd
+AuthUserFile C:\_Webserwer\Form_final\.secure\.htpasswd
+AuthType Basic
+AuthName "Private access"
+Require valid-user
+</Files>
+# END
